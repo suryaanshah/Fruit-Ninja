@@ -20,5 +20,5 @@ RULES-
 cut the fruits appearing on the screen
 
 MUSIC-
-pop sound from scratch library
+pop sound from scratch library.
 All rights reserved
